@@ -18,7 +18,7 @@
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/karakusnavy/)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://github.com/karakusnavy/)
-[![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS)](https://github.com/karakusnavy/)
+[![NextJS](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=NextJS)](https://github.com/karakusnavy/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)](https://github.com/karakusnavy/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://github.com/karakusnavy/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://github.com/karakusnavy/)
