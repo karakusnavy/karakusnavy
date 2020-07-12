@@ -4,8 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karakusnavy@gmail.com)](mailto:karakusnavy@gmail.com)
 
     Hi ✋, I am Samed. I make a art.
-    /
-    Welcome
+    Welcome.
 
 ## Conhecimentos / Knowledges
 
